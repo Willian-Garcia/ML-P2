@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-learn
+Pillow
+imagecodecs
+rasterio
+torch
+torchvision
+tqdm
