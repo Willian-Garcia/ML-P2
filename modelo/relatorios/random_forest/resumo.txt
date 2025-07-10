@@ -1,0 +1,13 @@
+==== RELATÓRIO RF COM VARREDURA ====
+Tempo de execução: 247.62 segundos
+Acurácia total: 0.9628
+
+               precision    recall  f1-score   support
+
+    Vegetação       0.97      0.99      0.98   6340687
+Não Vegetação       0.93      0.82      0.87    660687
+         Água       0.88      0.81      0.84    420251
+
+     accuracy                           0.96   7421625
+    macro avg       0.93      0.87      0.90   7421625
+ weighted avg       0.96      0.96      0.96   7421625

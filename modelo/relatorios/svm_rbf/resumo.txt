@@ -1,0 +1,13 @@
+==== RELATÓRIO SVM RBF COM VARREDURA ====
+Tempo de execução: 39.98 segundos
+Acurácia total: 0.8919
+
+               precision    recall  f1-score   support
+
+    Vegetação       0.88      0.89      0.89     30000
+Não Vegetação       0.90      0.94      0.92     30000
+         Água       0.90      0.85      0.87     30000
+
+     accuracy                           0.89     90000
+    macro avg       0.89      0.89      0.89     90000
+ weighted avg       0.89      0.89      0.89     90000

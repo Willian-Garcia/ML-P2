@@ -1,0 +1,30 @@
+==== RELATÓRIO DE TREINAMENTO - CNN com PyTorch ====
+
+Dispositivo utilizado: cuda
+Tempo de treinamento: 443.27 segundos
+Épocas: 9
+Melhor acurácia de validação: 0.9239
+Acurácia Teste: 0.9133
+
+==== Classificação - Validação ====
+               precision    recall  f1-score   support
+
+    Vegetação       0.99      0.91      0.95    951262
+Não Vegetação       0.68      0.90      0.77     99120
+         Água       0.57      0.90      0.69     63048
+
+     accuracy                           0.91   1113430
+    macro avg       0.74      0.91      0.81   1113430
+ weighted avg       0.94      0.91      0.92   1113430
+
+==== Classificação - Teste ====
+               precision    recall  f1-score   support
+
+    Vegetação       0.99      0.92      0.95    951103
+Não Vegetação       0.68      0.90      0.78     99103
+         Água       0.57      0.90      0.69     63038
+
+     accuracy                           0.91   1113244
+    macro avg       0.74      0.91      0.81   1113244
+ weighted avg       0.94      0.91      0.92   1113244
+
